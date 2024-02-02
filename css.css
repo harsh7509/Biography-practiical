@@ -1,0 +1,42 @@
+.banner{
+    display: block;
+    position: absolute;
+    top: 0%;
+   right: 2px;
+    width: 100%;
+    height: 180%;
+    background-image: linear-gradient(rgb(32, 144, 182), rgba(213, 9, 9, 0.326));
+    background-size: cover;
+}
+h1{
+    color: aliceblue;
+    text-align: center;
+    font-size: 250%;
+}
+p{
+    font-size: 130%;
+}
+img{
+    margin: auto;
+    display: block;
+    border-radius: 50%;
+    border: 2px solid;
+}
+#div1{
+    margin-left: 2%;
+}
+table{
+    font-size: 125%;
+    margin-left: 2%;
+    text-align: ;
+    
+}
+#left{
+    margin-left: 3%;
+}
+ul{
+    font-size: 130%;
+}
+marquee{
+    font-size: 200%;
+}
